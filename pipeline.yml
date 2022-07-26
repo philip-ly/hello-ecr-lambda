@@ -103,7 +103,7 @@ Resources:
               OutputArtifacts:
                 - Name: app-source
               Configuration:
-                Owner: mo-rjr
+                Owner: philip-ly
                 Repo: hello-ecr-lambda
                 PollForSourceChanges: false
                 Branch: main
